@@ -20,7 +20,7 @@ paging = True
 
 # search-url
 url = 'https://stackoverflow.com/'
-search_url = url + 'search?{query}&page={pageno}'
+search_url = url + 'search?q={query}&page={pageno}'
 
 # specific xpath variables
 results_xpath = '//div[contains(@class,"question-summary")]'
