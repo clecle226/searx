@@ -820,6 +820,7 @@ engines:
     shortcut : speu
     engine : seedpeer
     categories: files, music, videos
+    disabled : True
 
   - name : rubygems
     shortcut: rbg
