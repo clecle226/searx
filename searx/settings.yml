@@ -570,6 +570,7 @@ engines:
   - name : searchcode doc
     engine : searchcode_doc
     shortcut : scd
+    disabled : True
 
   - name : searchcode code
     engine : searchcode_code
